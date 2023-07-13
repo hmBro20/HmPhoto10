@@ -187,7 +187,6 @@ img{
 .sec2-h6{
     margin: auto;
     font-size: 30px;
-    font-family: arial;
     text-align: center;
     margin-top: 50px;
     
@@ -374,7 +373,6 @@ a:active{
     color: white;
     text-align: left;
     justify-content: left;
-    font-family: arial;
 }
 
 
@@ -407,7 +405,7 @@ a:active{
 .cont-fm textarea::placeholder{
     color: whitesmoke;
     text-align: center;
-    font-family: arial;
+    
 }
 
 
