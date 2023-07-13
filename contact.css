@@ -1,10 +1,10 @@
 
 /* Header start */
-font-family:sans-serif;
+
 header{
     height: 70px;
     width: 100%;
-    display:flex;
+    display :flex;
     position:fixed;
     top:0;
     background:linear-gradient(#ffffff,#ffffff);
@@ -294,7 +294,6 @@ a:active{
  /* Section 3 */
  
 .sec3{
-    font-family: Sans-serif;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -405,7 +404,6 @@ a:active{
 .cont-fm textarea::placeholder{
     color: whitesmoke;
     text-align: center;
-    
 }
 
 
